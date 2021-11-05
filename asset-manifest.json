@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/todplaz.github.io-millions/static/css/main.31142dec.chunk.css",
+    "main.js": "/todplaz.github.io-millions/static/js/main.2df7c7d1.chunk.js",
+    "main.js.map": "/todplaz.github.io-millions/static/js/main.2df7c7d1.chunk.js.map",
+    "runtime-main.js": "/todplaz.github.io-millions/static/js/runtime-main.e1c2860c.js",
+    "runtime-main.js.map": "/todplaz.github.io-millions/static/js/runtime-main.e1c2860c.js.map",
+    "static/js/2.949bc45c.chunk.js": "/todplaz.github.io-millions/static/js/2.949bc45c.chunk.js",
+    "static/js/2.949bc45c.chunk.js.map": "/todplaz.github.io-millions/static/js/2.949bc45c.chunk.js.map",
+    "static/js/3.b8d0ea07.chunk.js": "/todplaz.github.io-millions/static/js/3.b8d0ea07.chunk.js",
+    "static/js/3.b8d0ea07.chunk.js.map": "/todplaz.github.io-millions/static/js/3.b8d0ea07.chunk.js.map",
+    "index.html": "/todplaz.github.io-millions/index.html",
+    "static/css/main.31142dec.chunk.css.map": "/todplaz.github.io-millions/static/css/main.31142dec.chunk.css.map",
+    "static/js/2.949bc45c.chunk.js.LICENSE.txt": "/todplaz.github.io-millions/static/js/2.949bc45c.chunk.js.LICENSE.txt",
+    "static/js/3.b8d0ea07.chunk.js.LICENSE.txt": "/todplaz.github.io-millions/static/js/3.b8d0ea07.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/todplaz.github.io-millions/static/media/bg.c137ccd7.jpg",
+    "static/media/correct.160572d7.mp3": "/todplaz.github.io-millions/static/media/correct.160572d7.mp3",
+    "static/media/play.8e5f6d1d.mp3": "/todplaz.github.io-millions/static/media/play.8e5f6d1d.mp3",
+    "static/media/wrong.e9468218.mp3": "/todplaz.github.io-millions/static/media/wrong.e9468218.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1c2860c.js",
+    "static/js/2.949bc45c.chunk.js",
+    "static/css/main.31142dec.chunk.css",
+    "static/js/main.2df7c7d1.chunk.js"
+  ]
+}
