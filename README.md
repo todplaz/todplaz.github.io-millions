@@ -4,6 +4,8 @@ Le célèbre jeu qui veut gagner des millions dans une forme minimale.
 Tout y est , la sonorité, l'ambiance, le timer...le tout codé avec les hooks les 
 plus populaires de react a savoir UseState et UseEffect.
 
+Vous pouvez avoir un apercu du projet en visitant ma page https://todplaz.github.io/todplaz.github.io-millions/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
